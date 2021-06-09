@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AND_tensorflow/.idea/AND_tensorflow.iml" filepath="$PROJECT_DIR$/../AND_tensorflow/.idea/AND_tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Line_perception/.idea/Line_perception.iml" filepath="$PROJECT_DIR$/../Line_perception/.idea/Line_perception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MNIST_with_PyQT/.idea/MNIST_with_PyQT.iml" filepath="$PROJECT_DIR$/../MNIST_with_PyQT/.idea/MNIST_with_PyQT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyProject/.idea/MyProject.iml" filepath="$PROJECT_DIR$/../MyProject/.idea/MyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XOR_tensorflow/.idea/XOR_tensorflow.iml" filepath="$PROJECT_DIR$/../XOR_tensorflow/.idea/XOR_tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../YOLO_v3/.idea/YOLO_v3.iml" filepath="$PROJECT_DIR$/../YOLO_v3/.idea/YOLO_v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cancer_classify_tensorflow/.idea/cancer_classify_tensorflow.iml" filepath="$PROJECT_DIR$/../cancer_classify_tensorflow/.idea/cancer_classify_tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/multi-linear-regression.iml" filepath="$PROJECT_DIR$/.idea/multi-linear-regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tf_linear_regression/.idea/tf_linear_regression.iml" filepath="$PROJECT_DIR$/../tf_linear_regression/.idea/tf_linear_regression.iml" />
+    </modules>
+  </component>
+</project>
